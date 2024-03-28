@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'http://localhost:8080/v1/tasks';
+  var apiRoot = 'https://d8af4142-479b-47cd-ae07-dd0adac2394d-00-2ra2mdnfgz897.picard.replit.dev/v1/tasks';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
