@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  const apiRoot = 'https://21772d55-9d71-4f10-aa9c-c1f479be24fe-00-2p110bz6pp523.picard.replit.dev/v1/tasks';
-  const trelloApiRoot = 'https://21772d55-9d71-4f10-aa9c-c1f479be24fe-00-2p110bz6pp523.picard.replit.dev/v1/trello';
+  const apiRoot = 'https://09d4d7b2-a73c-4db9-8b0f-44c4dadaa458-00-29s2b2kn3plm8.spock.replit.dev/v1/tasks';
+  const trelloApiRoot = 'https://09d4d7b2-a73c-4db9-8b0f-44c4dadaa458-00-29s2b2kn3plm8.spock.replit.dev/v1/trello';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
